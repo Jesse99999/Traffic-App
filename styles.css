@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+}
+
+
+
+
+h1 {
+    color: #444;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+#controls {
+    margin-bottom: 20px;
+}
+
+
+
+#station-select {
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+
+#search-button {
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+#search-button:hover {
+    background-color: #0056b3;
+}
+
+
+
+.train {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px auto;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 4px;
+}
+
+
+.train h3 {
+    font-size: 18px;
+    color: #333;
+    margin: 5px 0;
+}
+
+.train p {
+    font-size: 14px;
+    color: #666;
+    margin: 5px 0;
+    
+}
